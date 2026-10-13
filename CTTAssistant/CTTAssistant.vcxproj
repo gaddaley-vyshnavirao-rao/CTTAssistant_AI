@@ -124,6 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AIReportAnalyzer.cpp" />
     <ClCompile Include="EndpointParser.cpp" />
     <ClCompile Include="ExecutionManager.cpp" />
     <ClCompile Include="HTMLReportGenerator.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="tinyxml2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AIReportAnalyzer.h" />
     <ClInclude Include="EndpointInfo.h" />
     <ClInclude Include="EndpointParser.h" />
     <ClInclude Include="ExecutionManager.h" />
